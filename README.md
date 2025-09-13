@@ -22,5 +22,10 @@ samples, guidance on mobile development, and a full API reference.
 <img scr="screenshots/select_player.png" width="250"/>
 <img scr="screenshots/player.png" width="250"/>
 </p>
+
+## 🛠️ التثبيت والتشغيل
+1. كلون المشروع:
+   ```bash
+   git clone https://github.com/SroOoAlaaEldin/tic_tac_toe_game.git
 Design Game Tic Tac Toe
 >>>>>>> 01ed32235c4c992d74c697112021d7e081848280
