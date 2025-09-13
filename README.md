@@ -10,7 +10,7 @@ A new Flutter project.
 
 
 <p float="left">
-  <img src="screenshots/home.jpg" width="250"/>
-  <img src="screenshots/select_player.jpg" width="250"/>
-  <img src="screenshots/player.jpg" width="250"/>
+  <img src="screenshots/home.png" width="250"/>
+  <img src="screenshots/select_player.png" width="250"/>
+  <img src="screenshots/player.png" width="250"/>
 </p>
